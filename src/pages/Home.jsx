@@ -37,7 +37,7 @@ export default function Home() {
             <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend
             Website dan Applikasi Mobile Mereka.{" "}
             dan saya juga pernah bekerja di Malaysia sebuah perusahaan yang {" "}
-            bergerak di bidang Software House bernama <b className="text-blue-400">Simajji Concept</b> sebagai {" "} Backend Developer.
+            bergerak di bidang Software House bernama <b className="text-blue-400">Simajji Concept</b> sebagai {" "} Backend Developer dan Dev Ops.
           </p>
         </div>
       </header>
