@@ -23,7 +23,7 @@ export default function Home() {
             Seorang Fullstack Javascript Developer
           </p>
           <p className="text-white font-light">
-            Memulai karir sebagai seorang programer di tahun 2019 sebagai web
+            Memulai karir sebagai seorang programer di tahun 2018 sebagai web
             developer. Belajar dari sebuah bootcamp programer bernama{" "}
             <b className="text-blue-400">Jvalley Bootcamp</b>.
           </p>
@@ -85,9 +85,14 @@ export default function Home() {
           className="w-full h-[250px] object-cover object-top filter grayscale"
         />
 
-        <h1 className="text-blue-400 font-bold text-2xl mt-6">2020 - 2022</h1>
+        <h1 className="text-blue-400 font-bold text-2xl mt-6">2018 - 2022</h1>
         <p className="text-gray-900 font-light">
-          Saya memulai karier saya sebagai Branding Team pada sebuah perusahaan
+          Saya memulai karier saya sebagai seorang programer di tahun 2018 sebagai web developer di sebuah bootcamp bernama{" "}
+          <b className="text-blue-400">Jvalley Bootcamp</b>. Setelah lulus dari bootcamp tersebut, saya langsung bekerja di sebuah startup bernama{" "}
+          <b className="text-blue-400">PT Dutadropship</b> sebagai Backend Developer. dan saya pernah dipercaya oleh perusahaan bernama{" "}
+          <b className="text-blue-400">IDN Media</b> untuk mengerjakan Web Portfolio mereka. Setelah itu saya pernah dipercaya oleh Partai Terbesar di Indonesia{" "}
+          <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend Website dan Applikasi Mobile Mereka.{" "}
+
         </p>
 
 
@@ -102,7 +107,6 @@ export default function Home() {
           melanjutkan kuliah di <b className="text-blue-400">Universitas Nusa Mandiri</b> dengan jurusan
           Teknik Informatika.
         </p>
-
         <p className="text-gray-900 font-light">
           Selain kuliah, saya juga menjadi Freelancer di beberapa perusahaan
           seperti <b className="text-blue-400">IDN Media</b>, dan sebuah Partai Politik Terbesar di Indonesia,{" "}
