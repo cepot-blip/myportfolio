@@ -333,7 +333,7 @@ export default function Home() {
               <p className="text-gray-900 font-light mt-2">
                 Non SQL database saya gunakan untuk project - project yang
                 membutuhkan kecepatan akses databasenya, saya biasa menggunakan
-                Monggo DB dan Firestore Firebase.
+                Firestore Firebase.
               </p>
             </details>
           </li>
