@@ -19,7 +19,7 @@ const Footer = () => {
           rel="noreferrer"
         >
           <div className="w-full flex items-center gap-4">
-            <p>Jl Kp Utan Jaya Gg H Nali No.39E Depok Jawa Barat Indonesia</p>
+            <p>Jl Kp Utan Jaya Gg H Nali RT 02/04 No.39E Depok Jawa Barat Indonesia</p>
           </div>
         </a>
 
