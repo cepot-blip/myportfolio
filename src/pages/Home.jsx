@@ -1,5 +1,6 @@
 import Footer from "../components/Footer";
 import Menu from "../components/Menu";
+import foto from "../assets/foto.jpg";
 
 export default function Home() {
   return (
@@ -33,10 +34,10 @@ export default function Home() {
             <b className="text-blue-400">PT Dutadropship</b> Sebuah Startup dibidang e-commerce{" "}
             , pernah mengerjakan Web
             Portfolio Sebagai Backend Developer <b className="text-blue-400">IDN Media</b> dan dipercaya
-            oleh Partai Terbesai di Indonesia{" "}
+            oleh Partai Terbesar di Indonesia{" "}
             <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend
             Website dan Applikasi Mobile Mereka.{" "}
-            dan saya juga pernah bekerja di Malaysia sebuah perusahaan yang {" "}
+            dan saya juga pernah bekerja untuk salah satu perusahaan di Malaysia yang{" "}
             bergerak di bidang Software House bernama <b className="text-blue-400">Simajji Concept</b> sebagai {" "} Backend Developer dan DevOps.
           </p>
         </div>
@@ -49,7 +50,7 @@ export default function Home() {
       >
         <h1 className="text-blue-400 font-bold text-7xl">Biodata</h1>
         <img
-          src="https://picsum.photos/seed/46/900"
+          src={"https://picsum.photos/seed/993/900"}
           alt="Foto Mohamad Prihartono"
           className="w-full h-[250px] object-cover object-top filter grayscale"
         />
