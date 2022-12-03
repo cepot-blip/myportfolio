@@ -1,6 +1,4 @@
 import Footer from "../components/Footer";
-import Menu from "../components/Menu";
-import foto from "../assets/foto.jpg";
 
 export default function Home() {
   return (
