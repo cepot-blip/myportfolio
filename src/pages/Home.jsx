@@ -1,4 +1,8 @@
 import Footer from "../components/Footer";
+import bg from "../assets/ui.jpg"
+import bg1 from "../assets/bg1.jpg"
+import bg2 from "../assets/bg2.jpg"
+import bg3 from "../assets/bg3.png"
 
 export default function Home() {
   return (
@@ -48,9 +52,9 @@ export default function Home() {
       >
         <h1 className="text-blue-400 font-bold text-7xl">Biodata</h1>
         <img
-          src={"https://picsum.photos/seed/993/900"}
+          src={bg3}
           alt="Foto Mohamad Prihartono"
-          className="w-full h-[250px] object-cover object-top filter grayscale"
+          className="w-full h-[280px] object-cover object-top"
         />
         <p className="text-gray-900 font-light">
           Saya lahir di <b className="text-blue-400">Jakarta, 28 januari 2001</b>, dibesarkan di kota bernama
@@ -79,9 +83,9 @@ export default function Home() {
       >
         <h1 className="text-blue-400 font-bold text-7xl">Karier</h1>
         <img
-          src="https://picsum.photos/seed/460/900"
+          src={bg1}
           alt="Foto Mohamad Prihartono"
-          className="w-full h-[250px] object-cover object-top filter grayscale"
+          className="w-full h-[250px] object-cover object-top"
         />
 
         <h1 className="text-blue-400 font-bold text-2xl mt-6">2018 - 2022</h1>
@@ -97,9 +101,9 @@ export default function Home() {
 
         <h1 className="text-blue-400 font-bold text-2xl">2022 - Saat ini</h1>
         <img
-          src="https://picsum.photos/seed/470/900"
+          src={bg2}
           alt="Membuka Bootcamp Programer Gratis Jvalley Bootcamp"
-          className="w-full h-[250px] object-cover object-top filter grayscale"
+          className="w-full h-[250px] object-cover object-top"
         />
         <p className="text-gray-900 font-light">
           Di tahun 2022, saya memutuskan untuk melanjutkan kuiliah, dan saya memutuskan untuk
@@ -126,7 +130,7 @@ export default function Home() {
           UI Desain
         </h1>
         <img
-          src="https://picsum.photos/seed/490/900"
+          src={bg}
           alt="Desain UI menggunakan Applikasi Figma"
           className="w-full h-[250px] object-cover object-top"
         />
