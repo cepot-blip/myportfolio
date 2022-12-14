@@ -54,7 +54,7 @@ export default function Home() {
         <img
           src={bg3}
           alt="Foto Mohamad Prihartono"
-          className="w-full h-[280px] object-cover object-top"
+          className="w-full h-[285px] object-cover object-top"
         />
         <p className="text-gray-900 font-light">
           Saya lahir di <b className="text-blue-400">Jakarta, 28 januari 2001</b>, dibesarkan di kota bernama
@@ -85,7 +85,7 @@ export default function Home() {
         <img
           src={bg1}
           alt="Foto Mohamad Prihartono"
-          className="w-full h-[250px] object-cover object-top"
+          className="w-full h-[300px] object-cover object-top"
         />
 
         <h1 className="text-blue-400 font-bold text-2xl mt-6">2018 - 2022</h1>
@@ -103,7 +103,7 @@ export default function Home() {
         <img
           src={bg2}
           alt="Membuka Bootcamp Programer Gratis Jvalley Bootcamp"
-          className="w-full h-[250px] object-cover object-top"
+          className="w-full h-[300px] object-cover object-top"
         />
         <p className="text-gray-900 font-light">
           Di tahun 2022, saya memutuskan untuk melanjutkan kuiliah, dan saya memutuskan untuk
@@ -132,7 +132,7 @@ export default function Home() {
         <img
           src={bg}
           alt="Desain UI menggunakan Applikasi Figma"
-          className="w-full h-[250px] object-cover object-top"
+          className="w-full h-[300px] object-cover object-top"
         />
         <small className="text-gray-500 text-xs italic">
           Desain UI Applikasi Mobile Hobister
