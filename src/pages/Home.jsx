@@ -34,7 +34,7 @@ export default function Home() {
             Dalam karier sebagai programer Javascript, saya pernah dipercaya
             beberapa perusahaan di Indonesia, yaitu{" "}
             <b className="text-blue-400">PT Dutadropship</b> Sebuah Startup dibidang e-commerce{" "}
-            , pernah mengerjakan Web
+            , dan juga startup bernama <b className="text-blue-400">Hobister</b> sebuah startup yang bergerak dipenjualan hewan sebagai Backend Developer,  pernah mengerjakan Web
             Portfolio Sebagai Backend Developer <b className="text-blue-400">IDN Media</b> dan dipercaya
             oleh Partai Terbesar di Indonesia{" "}
             <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend
@@ -92,12 +92,10 @@ export default function Home() {
         <p className="text-gray-900 font-light">
           Saya memulai karier saya sebagai seorang programer di tahun 2018 sebagai web developer di sebuah bootcamp bernama{" "}
           <b className="text-blue-400">Jvalley Bootcamp</b>. Setelah lulus dari bootcamp tersebut, saya langsung bekerja di sebuah startup bernama{" "}
-          <b className="text-blue-400">PT Dutadropship</b> sebagai Backend Developer. dan saya pernah dipercaya oleh perusahaan bernama{" "}
+          <b className="text-blue-400">PT Dutadropship</b> sebagai Backend Developer. dan juga startup bernama <b className="text-blue-400">Hobister</b> sebuah startup yang bergerak dipenjualan hewan sebagai Backend Developer, dan saya pernah dipercaya oleh perusahaan bernama{" "}
           <b className="text-blue-400">IDN Media</b> untuk mengerjakan Web Portfolio mereka. Setelah itu saya pernah dipercaya oleh Partai Terbesar di Indonesia{" "}
           <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend Website dan Applikasi Mobile Mereka.{" "}
-
         </p>
-
 
         <h1 className="text-blue-400 font-bold text-2xl">2022 - Saat ini</h1>
         <img
