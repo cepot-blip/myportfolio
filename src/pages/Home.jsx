@@ -35,10 +35,7 @@ export default function Home() {
             beberapa perusahaan di Indonesia, yaitu{" "}
             <b className="text-blue-400">PT Dutadropship</b> Sebuah Startup dibidang e-commerce{" "}
             , dan juga startup bernama <b className="text-blue-400">Hobister</b> sebuah startup yang bergerak dipenjualan hewan sebagai Backend Developer,  pernah mengerjakan Web
-            Portfolio Sebagai Backend Developer <b className="text-blue-400">IDN Media</b> dan dipercaya
-            oleh Partai Terbesar di Indonesia{" "}
-            <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend
-            Website dan Applikasi Mobile Mereka.{" "}
+            Portfolio Sebagai Backend Developer <b className="text-blue-400">IDN Media</b>. 
             dan saya juga pernah bekerja untuk salah satu perusahaan di Malaysia yang{" "}
             bergerak di bidang Software House bernama <b className="text-blue-400">Simajji Concept</b> sebagai {" "} Backend Developer dan DevOps.
           </p>
@@ -93,8 +90,7 @@ export default function Home() {
           Saya memulai karier saya sebagai seorang programer di tahun 2018 sebagai web developer di sebuah bootcamp bernama{" "}
           <b className="text-blue-400">Jvalley Bootcamp</b>. Setelah lulus dari bootcamp tersebut, saya langsung bekerja di sebuah startup bernama{" "}
           <b className="text-blue-400">PT Dutadropship</b> sebagai Backend Developer. dan juga startup bernama <b className="text-blue-400">Hobister</b> sebuah startup yang bergerak dipenjualan hewan sebagai Backend Developer, dan saya pernah dipercaya oleh perusahaan bernama{" "}
-          <b className="text-blue-400">IDN Media</b> untuk mengerjakan Web Portfolio mereka. Setelah itu saya pernah dipercaya oleh Partai Terbesar di Indonesia{" "}
-          <b className="text-blue-400">PDI Perjuangan</b> untuk mengerjakan Backend Website dan Applikasi Mobile Mereka.{" "}
+          <b className="text-blue-400">IDN Media</b> untuk mengerjakan Web Portfolio mereka.
         </p>
 
         <h1 className="text-blue-400 font-bold text-2xl">2022 - Saat ini</h1>
@@ -107,11 +103,6 @@ export default function Home() {
           Di tahun 2022, saya memutuskan untuk melanjutkan kuiliah, dan saya memutuskan untuk
           melanjutkan kuliah di <b className="text-blue-400">Universitas Nusa Mandiri</b> dengan jurusan
           Teknik Informatika.
-        </p>
-        <p className="text-gray-900 font-light">
-          Selain kuliah, saya juga menjadi Freelancer di beberapa perusahaan
-          seperti <b className="text-blue-400">IDN Media</b>, dan sebuah Partai Politik Terbesar di Indonesia,{" "}
-          <b className="text-blue-400">PDI Perjuangan</b>.
         </p>
       </section>
 
