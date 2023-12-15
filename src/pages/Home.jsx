@@ -55,7 +55,7 @@ export default function Home() {
         />
         <p className="text-gray-900 font-light">
           Saya lahir di <b className="text-blue-400">Jakarta, 28 januari 2001</b>, dibesarkan di kota bernama
-          Citayam, tidak jauh dari Jakarta.
+          Depok, tidak jauh dari Jakarta.
         </p>
 
         <p className="text-gray-900 font-light">
