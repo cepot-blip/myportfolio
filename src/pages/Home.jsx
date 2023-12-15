@@ -291,6 +291,19 @@ export default function Home() {
           <li>
             <details className="flex flex-col gap-2 p-4">
               <summary className="flex gap-2 items-center">
+                <h1>Golang</h1>
+              </summary>
+              <p className="text-gray-900 font-light mt-2">
+                Golang saya gunakan untuk project yang membutukan efisensi atau kinerja tinggi
+                selain itu Go juga sederhana dan mudah untuk di pahami selain itu juga Go mempunyai 
+                Gerbang Collection yang efisien secara eksplisit mengelola alokasi dan delokasi memori.
+              </p>
+            </details>
+          </li>
+
+          <li>
+            <details className="flex flex-col gap-2 p-4">
+              <summary className="flex gap-2 items-center">
                 <h1>Fastify JS</h1>
               </summary>
               <p className="text-gray-900 font-light mt-2">
